@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Volumes/T7/2022_3-2/Tenser/build",
+  "command": "/usr/bin/clang++  -isystem /Users/jang-gihwan/Documents/opencv/install/include/opencv4 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/TENSER.dir/objectDetection.cpp.o -c /Volumes/T7/2022_3-2/Tenser/objectDetection.cpp",
+  "file": "/Volumes/T7/2022_3-2/Tenser/objectDetection.cpp"
+}
+]
